@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; }
+
+body { font-feature-settings: "cv02","cv03","cv04","cv11"; }
+
+.neon-border {
+  box-shadow: 0 0 0 1px rgba(0,229,255,0.4), inset 0 0 24px rgba(0,229,255,0.08), 0 0 24px rgba(0,229,255,0.2);
+}
+
+
+
